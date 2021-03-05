@@ -1,0 +1,12 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Luxon 1`] = `
+<button
+  className="prev-button button"
+  onClick={[Function]}
+  type="button"
+  value="link.com"
+>
+  &lt;
+</button>
+`;
